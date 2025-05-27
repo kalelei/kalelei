@@ -25,5 +25,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a></p>
+<h2>⚡️ Certifications</h2>
+<a target="_blank" href="https://www.credly.com/badges/43784ccb-cd2b-4611-9657-76cc1b08424f/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="42" height="42" /></a></p>
+<a target="_blank" href="https://www.credly.com/badges/6beff54f-5d59-4767-a80a-e31c5ce004dc/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials V2" width="42" height="42" /></a></p>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/yiğit-kaleli" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
