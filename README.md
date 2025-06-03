@@ -31,6 +31,7 @@
 <a target="_blank" href="https://www.credly.com/badges/c8eacfbc-bc96-4c49-850e-d36a13ef0421/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="Generative AI Essentials" width="42" height="42" /></a>
 <a target="_blank" href="https://www.credly.com/badges/6728c677-505d-4bc9-b9cc-dfe58b601786/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Generative AI: Prompt Engineering" width="42" height="42" /></a>
 <a target="_blank" href="https://www.credly.com/badges/1f46e579-6fee-49ec-84a9-9871dba888d6/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="42" height="42" /></a>
+<a target="_blank" href="https://www.credly.com/badges/bc059441-ab5c-4179-bd13-19a6e8bd96f6/public_url" style="display: inline-block;"><img src="https://images.credly.com/size/110x110/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="42" height="42" /></a>
 
 <h2>⚡️ Where to find me</h2>
 <a target="_blank" href="https://www.linkedin.com/in/yi%C4%9Fit-kaleli/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
